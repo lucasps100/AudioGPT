@@ -18,7 +18,6 @@ import re
 import uuid
 import soundfile
 from PIL import Image
-import numpy as np
 from omegaconf import OmegaConf
 from einops import repeat
 from ldm.util import instantiate_from_config
